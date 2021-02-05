@@ -21,10 +21,10 @@ public class App {
         int i = useless(f);
         double y = Math.sqrt(f);
         //on enleve une ligne dans la branch2
-        
+        //Je fais un nouveau commentaire inutile
         //on va enlever le code mort !
     }
-    
+    //cette fonction ne sert vraiment a rien
     public static int useless(int f) {
     	double PI = 3.141592;
     	LinkedList<Double> listeInutile = new LinkedList<Double>();
