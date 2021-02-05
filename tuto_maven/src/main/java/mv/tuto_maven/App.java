@@ -21,6 +21,8 @@ public class App {
         int i = useless(f);
         double y = Math.sqrt(f);
         f = 12;
+        
+        //on va enlever le code mort !
     }
     
     public static int useless(int f) {

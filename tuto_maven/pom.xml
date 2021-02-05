@@ -176,10 +176,21 @@
                 <artifactId>maven-pmd-plugin</artifactId>
                 <version>3.14.0</version>
             </plugin>
-      
+      <!-- partie 4 : connaitre l'activite du projet -->
+      <!-- 
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-changelog-plugin</artifactId> 
+            </plugin>
+      -->
  	</plugins>
- 	
- 	
   </reporting>
   
+  <!-- partie 4 : connaitre l'activite du projet -->
+  <!-- 
+  <scm>
+        <connection>scm:git:git://https://github.com/delagardeEsir/idom</connection>
+        <url>https://github.com/delagardeEsir/idom</url>
+  </scm> 
+  -->
 </project>
