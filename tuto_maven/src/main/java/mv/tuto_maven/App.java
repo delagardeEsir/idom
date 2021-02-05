@@ -20,7 +20,7 @@ public class App {
         f = 12;
         int i = useless(f);
         double y = Math.sqrt(f);
-        f = 12;
+        //on enleve une ligne dans la branch2
         
         //on va enlever le code mort !
     }
